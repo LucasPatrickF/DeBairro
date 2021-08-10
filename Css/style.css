@@ -1,0 +1,66 @@
+body{
+    margin: 5 ;
+    margin-left:35px ;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 19px;
+}
+nav{
+    background-color: #ffffff;
+    overflow:hidden;
+    position: fixed;
+    width: 100%;
+ 
+}
+nav .inicio{
+    color: #C6A7E4;
+    float: left;
+    display: block;
+    padding: 14px 0px;
+    padding-right: 570px;
+    
+}
+nav a{
+    color: rgb(0, 0, 0);
+    float: left;
+    text-decoration: none;
+    display: block;
+    padding: 14px 16px;
+    padding-left: 20px;
+}
+nav a:hover{
+    transition: 0,5s;
+    color: #333;
+    box-sizing: border-box;
+    background-color: lightgoldenrodyellow;
+}
+#idioma {
+    width: 20px;
+    padding: 18px 4px 0px 10px;
+    float: left;
+}
+#carrinho{
+    width: 30px;
+    padding: 12px 4px ;
+    float: left;
+}
+#li{
+    float: left;
+    width: 1px;
+    padding: 5px;
+}
+#lih{
+    float: left;
+    width: 1px;
+    padding: 5px;
+}
+#pt{
+    color: rgb(0, 0, 0);
+    float: left;
+    text-decoration: none;
+    display: block;
+    padding: 14px 0px ;  
+}
+#lh{
+    padding: 0px 10px 100px 0px;
+    
+}
